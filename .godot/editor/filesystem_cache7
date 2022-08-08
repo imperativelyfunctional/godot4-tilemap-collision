@@ -1,0 +1,62 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1659900007
+Base.tres::TileSet::5750478237035050056::1659841373::0::1::::<><>::uid://ccnk8qefbpjos
+CharacterBody2D.gd::GDScript::-1::1659842812::0::1::::<>CharacterBody2D<>::
+game.tscn::PackedScene::1042344197106032139::1659842835::0::1::::<><>::uid://6j6hwmk8mj2p<>uid://bg8lkikuoudtb<>uid://khwifbnjpo5q<>uid://dpniwao6n2ff6<>uid://dng22rs2sc1s6<>uid://cn6tsidadmyeq<>res://CharacterBody2D.gd<>uid://c0whrkilyq7j7
+icon.png::CompressedTexture2D::1107095574624964900::1658708633::1659752791::1::::<><>::
+::res://assets/::1659735172
+::res://assets/1 Tiles/::1659286668
+Tiles-in.png::CompressedTexture2D::5710423122029503026::1659286662::1659286668::1::::<><>::
+tiles.png::CompressedTexture2D::4940722913373504058::1658718267::1658718270::1::::<><>::
+::res://assets/2 Background/::1659735172
+::res://assets/2 Background/Day/::1658712876
+1.png::CompressedTexture2D::2196329454448929017::1621630900::1658710789::1::::<><>::
+2.png::CompressedTexture2D::2876364392827800723::1643485520::1658710789::1::::<><>::
+3.png::CompressedTexture2D::717689405615693100::1643485526::1658710789::1::::<><>::
+4.png::CompressedTexture2D::8239456662914804965::1621630926::1658710789::1::::<><>::
+5.png::CompressedTexture2D::8085791782092561275::1643485536::1658710789::1::::<><>::
+Background.png::CompressedTexture2D::5605773538174507596::1643485546::1658710789::1::::<><>::
+::res://assets/2 Background/Night/::1658710789
+1.png::CompressedTexture2D::1527132049190394515::1621668128::1658710789::1::::<><>::
+2.png::CompressedTexture2D::3952459639573024232::1643485558::1658710789::1::::<><>::
+3.png::CompressedTexture2D::5005863719129344560::1643485566::1658710789::1::::<><>::
+4.png::CompressedTexture2D::2392493799143679298::1621668152::1658710789::1::::<><>::
+5.png::CompressedTexture2D::5059176064114006036::1643485574::1658710789::1::::<><>::
+::res://assets/3 Objects/::1659796167
+benches.png::CompressedTexture2D::8075973443184541146::1658805805::1658805807::1::::<><>::
+bill.png::CompressedTexture2D::3467203028003015443::1658891774::1658891775::1::::<><>::
+bush.png::CompressedTexture2D::7518346598873245089::1658951753::1658951755::1::::<><>::
+fountain.png::CompressedTexture2D::2795253431490442584::1658950965::1658950966::1::::<><>::
+leaf.png::CompressedTexture2D::8998564840547558377::1658894095::1658894101::1::::<><>::
+light.png::CompressedTexture2D::5619622425997221197::1658956833::1659796167::1::::<><>::
+Objects.png::CompressedTexture2D::3451324374733408039::1658950777::1658950778::1::::<><>::
+ramp2.png::CompressedTexture2D::3869176513725127634::1658953868::1658953896::1::::<><>::
+ramp.png::CompressedTexture2D::7948083309500964587::1658953934::1658953936::1::::<><>::
+trees.png::CompressedTexture2D::5148193407348675939::1658805378::1658805379::1::::<><>::
+::res://assets/3 SteamMan/::1659063108
+SteamMan.png::CompressedTexture2D::6573434684496539954::1659063108::1659063108::1::::<><>::
+::res://assets/4 Animated objects/::1658870549
+Card.png::CompressedTexture2D::2850625462947650286::1658870549::1658870549::1::::<><>::
+Chest_open.png::CompressedTexture2D::2808081857354899069::1658870549::1658870549::1::::<><>::
+Fountain.png::CompressedTexture2D::7699601461356520418::1658870549::1658870549::1::::<><>::
+Money.png::CompressedTexture2D::2627972645233843944::1658870549::1658870549::1::::<><>::
+Skateboard.png::CompressedTexture2D::180937591380475992::1658870549::1658870549::1::::<><>::
+::res://assets/Animals/::1659022960
+::res://assets/Animals/birds/::1659022952
+Idle.png::CompressedTexture2D::3267709200255007992::1659022946::1659022952::1::::<><>::
+::res://assets/Animals/cats/::1659022975
+Idle.png::CompressedTexture2D::6714359725104745011::1659022974::1659022975::1::::<><>::
+::res://assets/Animals/dogs/::1659015547
+Attack.png::CompressedTexture2D::4771141258383889551::1659015547::1659015547::1::::<><>::
+Idle.png::CompressedTexture2D::3330729254422731630::1659015392::1659015392::1::::<><>::
+::res://assets/Animals/rats/::1658976705
+Death.png::CompressedTexture2D::921307946599560300::1658976705::1658976705::1::::<><>::
+Hurt.png::CompressedTexture2D::5354007933952317489::1658976705::1658976705::1::::<><>::
+Idle.png::CompressedTexture2D::2173114336265478777::1658976705::1658976705::1::::<><>::
+Walk.png::CompressedTexture2D::6900699243815385812::1658976705::1658976705::1::::<><>::
+::res://assets/boss/::1659286007
+1.png::CompressedTexture2D::1695619761520715862::1659285963::1659286007::1::::<><>::
+2.png::CompressedTexture2D::4351299090251723626::1659285983::1659286007::1::::<><>::
+3.png::CompressedTexture2D::5539216773432754478::1659286000::1659286007::1::::<><>::
+::res://assets/enemy/::1659063756
+drone.png::CompressedTexture2D::9146455386906822327::1659063751::1659063756::1::::<><>::

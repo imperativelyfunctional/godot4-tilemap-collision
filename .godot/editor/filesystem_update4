@@ -1,0 +1,4 @@
+res://game.tscn
+res://Base.tres
+res://CharacterBody2D.gd
+res://Camera2D.gd
